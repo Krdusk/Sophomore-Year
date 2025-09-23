@@ -1,2 +1,1 @@
-# Sophomore-Year
-Life lately.
+# Array Search and Delete
